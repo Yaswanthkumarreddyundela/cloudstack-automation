@@ -41,7 +41,7 @@ Follow these steps in sequence to deploy your CloudStack environment:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/cloudstack-automation.git
+git clone https://github.com/Yaswanthkumarreddyundela/cloudstack-automation.git
 cd cloudstack-automation
 chmod +x *.sh utils/*.sh
 ```
